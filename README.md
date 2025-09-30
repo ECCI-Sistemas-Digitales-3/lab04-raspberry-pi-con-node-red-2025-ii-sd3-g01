@@ -52,7 +52,3 @@ El laboratorio permitió comprender cómo establecer una conexión remota con la
 Se concluye que Node-RED es una herramienta poderosa para integrar hardware y software mediante flujos visuales, y que su ejecución en la Raspberry Pi lo convierte en una opción práctica para proyectos de monitoreo y control en tiempo real.  
 
 
-##
-cambios realizados para probar commit 
-kdjbfkjdgbkjds
-akhdbfkdhbfjk
