@@ -126,12 +126,4 @@ Ejecución en primer plano: al iniciar Node-RED con node-red-pi --max-old-space-
 
 El laboratorio permitió comprender cómo establecer una conexión remota con la Raspberry Pi y cómo instalar y configurar Node-RED como servicio en segundo plano. Además, se logró crear un flujo funcional con nodos de entrada, procesamiento y salida, verificando el almacenamiento de datos y su visualización en un dashboard. 
 
-<p align="center">
-  <img src="evi1.jpg" alt="Logo" width="300"/>
-</p>
-
-<p align="center">
-  <img src="evi2.jpg" alt="Logo" width="300"/>
-</p>
-
 Se concluye que Node-RED es una herramienta poderosa para integrar hardware y software mediante flujos visuales, y que su ejecución en la Raspberry Pi lo convierte en una opción práctica para proyectos de monitoreo y control en tiempo real.  
