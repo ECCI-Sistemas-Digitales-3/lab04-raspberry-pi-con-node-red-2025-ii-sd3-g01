@@ -11,7 +11,6 @@
 <!-- Incluir diagramas y adjuntar al repositorio, en una carpeta src, el flujo que crearon -->
 
 En el presente laboratorio se realizó la conexión inalámbrica entre la Raspberry Pi, el equipo de cómputo local mediante SSH y la interfaz web de Node-RED
-<<<<<<< HEAD
 
 ## Requisitos
 - Raspberry Pi con Raspberry Pi OS.  
@@ -128,6 +127,7 @@ Ejecución en primer plano: al iniciar Node-RED con node-red-pi --max-old-space-
 El laboratorio permitió comprender cómo establecer una conexión remota con la Raspberry Pi y cómo instalar y configurar Node-RED como servicio en segundo plano. Además, se logró crear un flujo funcional con nodos de entrada, procesamiento y salida, verificando el almacenamiento de datos y su visualización en un dashboard. 
 
 Se concluye que Node-RED es una herramienta poderosa para integrar hardware y software mediante flujos visuales, y que su ejecución en la Raspberry Pi lo convierte en una opción práctica para proyectos de monitoreo y control en tiempo real.  
+<<<<<<< HEAD
 =======
 
 ## Requisitos
@@ -241,3 +241,5 @@ El laboratorio permitió comprender cómo establecer una conexión remota con la
 Se concluye que Node-RED es una herramienta poderosa para integrar hardware y software mediante flujos visuales, y que su ejecución en la Raspberry Pi lo convierte en una opción práctica para proyectos de monitoreo y control en tiempo real.  
 
 >>>>>>> 7b6d49b97d601e1aaa506265cb12f1dedd893edb
+=======
+>>>>>>> 0f081b423b6b431def84d7b62627c22cec97bdc5
