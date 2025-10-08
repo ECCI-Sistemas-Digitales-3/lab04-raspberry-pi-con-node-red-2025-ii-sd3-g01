@@ -215,6 +215,10 @@ cat test.txt
 
 Confirmando que los valores seleccionados desde el Dashboard se estaban almacenando correctamente. Además, se creó otra pestaña en el Dashboard llamada button, con un nodo botón que permitía enviar acciones adicionales al flujo, integrándose con el nodo Function y el nodo File.
 
+<p align="center">
+  <img src="./evi3.png" alt="Logo" width="600"/>
+</p>
+
 De esta forma, el laboratorio no solo permitió instalar y ejecutar Node-RED en la Raspberry Pi, sino también construir un flujo completo que conectó nodos de entrada, procesamiento y salida, verificando en tiempo real la interacción entre la interfaz gráfica y los archivos locales de la Raspberry Pi.
 
 ### Dificultades  
