@@ -94,6 +94,13 @@ cd /home/LAURA RINCON/documents
 ls
 cat test.txt
 ```
+<p align="center">
+  <img src="Nodered.jpeg" alt="Logo" width="300"/>
+</p>
+
+<p align="center">
+  <img src="Color.jpeg" alt="Logo" width="300"/>
+</p>
 
 Confirmando que los valores seleccionados desde el Dashboard se estaban almacenando correctamente. Además, se creó otra pestaña en el Dashboard llamada button, con un nodo botón que permitía enviar acciones adicionales al flujo, integrándose con el nodo Function y el nodo File.
 
